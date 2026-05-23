@@ -2,10 +2,7 @@
 
 Change Detection from Multi-Temporal Satellite Images
 
-**Course:** AI212 — Artificial Intelligence  
-**Institute:** IIT Ropar  
-**Student:** I Nikhil RM Varma (2024AIB1350)  
-**Department:** AI & Data Engineering
+
 
 ---
 
