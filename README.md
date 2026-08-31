@@ -29,13 +29,6 @@ Upload any two satellite images (same location at different times, or two differ
 
 ## How to Run
 
-### Option 1 — Docker (Recommended)
-```bash
-docker compose up --build
-```
-Open http://localhost:5173
-
-### Option 2 — Local
 ```bash
 # Terminal 1
 cd backend
