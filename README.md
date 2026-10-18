@@ -10,7 +10,7 @@ Change Detection from Multi-Temporal Satellite Images
 
 Upload any two satellite images (same location at different times, or two different regions) and the system automatically detects and visualises the changes using image processing and machine learning.
 
-**Example:** Gurugram, India — 2020 vs 2025 → 25.91% area changed, classified as Significant Urban Growth.
+**Example:** Gurugram, India — 2018 vs 2025 → 25.91% area changed, classified as Significant Urban Growth.
 
 ---
 
